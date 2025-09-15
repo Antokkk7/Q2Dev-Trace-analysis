@@ -14,10 +14,6 @@ public class App {
         return "Hello World!";
     }
 
-    public static String hello() {
-        return "Imagine installer un explorateur internet sur un Linux (firefox en false positive XDDD) pour que cela ne serve finalement à rien ^^ ";
-    }
-
     public static String hello(String param) {
         return param;
     }
